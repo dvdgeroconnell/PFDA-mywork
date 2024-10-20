@@ -7,5 +7,6 @@ GitHub repository for the labs and other work associated with the Programming fo
 
 # Contents  
 ***  
-27-Sep-2024 : Created repository
-30-Sep-2024 : Added week 01 content - reading csv files and json from the webcd..
+27-Sep-2024 : Created repository  
+30-Sep-2024 : Added week 01 content - reading csv files and json from the webcd..  
+10-Oct-2024 : Pushed lab files for week 04 (regular expressions)  
